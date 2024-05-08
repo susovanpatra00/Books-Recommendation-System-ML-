@@ -36,9 +36,8 @@ In our project, we will use the Collaborative Filtering method.
 - scikit-learn
 - streamlit
 
-## Usge
+## How to Run
 
-1. Clone the repository:
-   ```bash
+```bash
    streamlit run app.py
 ```
